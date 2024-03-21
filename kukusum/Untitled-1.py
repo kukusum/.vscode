@@ -6,6 +6,4 @@ def factorial(n):
 
 factorial(5)
 
-def factorial(n):
-    while :
-    return result
+
