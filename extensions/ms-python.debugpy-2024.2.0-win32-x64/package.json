@@ -550,6 +550,7 @@
 		"updated": false,
 		"isPreReleaseVersion": false,
 		"hasPreReleaseVersion": false,
-		"installedTimestamp": 1711015980985
+		"installedTimestamp": 1711022581727,
+		"pinned": false
 	}
 }
